@@ -1,0 +1,11 @@
+D:\NET\TestExersize\Figures\bin\Debug\net8.0\Figures.deps.json
+D:\NET\TestExersize\Figures\bin\Debug\net8.0\Figures.dll
+D:\NET\TestExersize\Figures\bin\Debug\net8.0\Figures.pdb
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.dll
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\refint\Figures.dll
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\Figures.pdb
+D:\NET\TestExersize\Figures\obj\Debug\net8.0\ref\Figures.dll
